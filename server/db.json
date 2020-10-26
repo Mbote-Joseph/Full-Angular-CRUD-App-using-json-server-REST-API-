@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Tony Star",
+      "email": "tony@mcu.com",
+      "phone": "001-123-4567"
+    },
+    {
+      "id": 2,
+      "name": "Black Widow",
+      "email": "black-widow@mcu.com",
+      "phone": "001-123-4568"
+    },
+    {
+      "name": "Jose Mbote",
+      "email": "mbote@gmail.com",
+      "phone": "0792622515",
+      "id": 3
+    },
+    {
+      "name": "John Mwangi",
+      "email": "Mwangi.John@gmail.com",
+      "phone": "0792622515",
+      "id": 5
+    },
+    {
+      "name": "Joseph Kang'ethe",
+      "email": "joseph.kang'ethe",
+      "phone": "0704031617",
+      "id": 6
+    },
+    {
+      "name": "Juma Ali",
+      "email": "juma.ali@yahoo.com",
+      "phone": "0796456532",
+      "id": 7
+    }
+  ]
+}
